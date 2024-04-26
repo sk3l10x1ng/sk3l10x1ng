@@ -2,7 +2,7 @@
 
 
 
-- :sweat_smile: Alias sk3l10x1ng == skeletonking 
+-  This means `sk3l10x1ng` ,This skeletonking` 
 <!--
 **sk3l10x1ng/sk3l10x1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
