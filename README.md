@@ -1,6 +1,6 @@
 ### A little about who I am
 
-> Before the Commits, There Was Curiosity
+> Not Every Threat Seeks Destruction — Some Seek Knowledge
 
 
 
