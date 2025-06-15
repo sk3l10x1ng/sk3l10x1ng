@@ -1,5 +1,8 @@
 ### A little about who I am
 
+> Before the Commits, There Was Curiosity
+
+
 
 
 -  This signifies `sk3l10x1ng`, This `Skeleton King`
