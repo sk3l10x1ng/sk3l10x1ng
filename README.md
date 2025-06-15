@@ -1,8 +1,8 @@
-### Hello there  👋
+### A little about who I am
 
 
 
--  This means `sk3l10x1ng`, This `skeleton king`
+-  This means `sk3l10x1ng`, This `Skeleton King`
 <!--
 **sk3l10x1ng/sk3l10x1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
