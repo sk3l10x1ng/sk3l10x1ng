@@ -2,7 +2,7 @@
 
 
 
--  This means `sk3l10x1ng`, This `skeleton king`😅 
+-  This means `sk3l10x1ng`, This `skeleton king`
 <!--
 **sk3l10x1ng/sk3l10x1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- How about a game of chess♟️? I'm ready for a [challenge!](https://www.chess.com/member/sk3l10x1ng)
+- How about we engage in a game of chess? I'm prepared for a worthy [challenge!](https://www.chess.com/member/sk3l10x1ng) 
