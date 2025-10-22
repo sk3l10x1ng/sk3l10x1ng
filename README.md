@@ -1,6 +1,6 @@
 ### A little about who I am
 
-> Not Every Threat Seeks Destruction — Some Seek Knowledge
+> Every saint’s got a demon process; patience just keeps it in sandbox mode.
 
 
 
